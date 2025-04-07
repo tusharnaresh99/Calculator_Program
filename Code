@@ -1,0 +1,12 @@
+#CALCULATOR
+a=int(input("Enter your first no."))
+b=int(input("Enter your second no."))
+print("addition= ",a+b)
+print("subraction= ",a-b)
+print("multiplication= ",a*b)
+print("division=",a/b)
+
+GREETING_PROGRAM
+a=input("Please Enter Your first name")
+b=input("Please Enter Your last name")
+print("Hello,",a,"",b,"Welcome To Our home")
